@@ -1,0 +1,22 @@
+{
+  "9744fc42702e87b1f44e6936c7f6acc" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c0b44c86400782ae",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1664949255675,
+        "stop" : 1664949258928,
+        "duration" : 3253
+      }
+    } ]
+  }
+}

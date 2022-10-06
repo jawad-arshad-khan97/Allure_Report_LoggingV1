@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Server: Cowboy
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Content-Type: application/json; charset=utf-8
+Content-Length: 86
+Etag: W/"56-viW4J4KDoCEVywvZIcVjawZxaG4"
+Date: Wed, 05 Oct 2022 05:54:18 GMT
+Via: 1.1 vegur
+
+{
+    "data": {
+        "company": {
+            "ceo": "Elon Musk"
+        },
+        "roadster": {
+            "apoapsis_au": 1.664041426415428
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "administrators-MacBook-Pro-7.local",
+    "children" : [ {
+      "name" : "34215@administrators-MacBook-Pro-7.local.main(1)",
+      "children" : [ {
+        "name" : "testelon",
+        "uid" : "c0b44c86400782ae",
+        "parentUid" : "191d1f95424d0bf910be484f5faf038d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1664949255675,
+          "stop" : 1664949258928,
+          "duration" : 3253
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "191d1f95424d0bf910be484f5faf038d"
+    } ],
+    "uid" : "8c34c786e25d1f7d66d2275a75b28adb"
+  } ]
+}

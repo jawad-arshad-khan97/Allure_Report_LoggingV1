@@ -1,0 +1,15 @@
+Request method:	POST
+Request URI:	https://api.spacex.land/graphql/
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "query": "query ExampleQuery {\n  company {\n    ceo\n  }\n  roadster {\n    apoapsis_au\n  }\n}"
+}

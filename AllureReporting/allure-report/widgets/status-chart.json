@@ -1,0 +1,11 @@
+[ {
+  "uid" : "c0b44c86400782ae",
+  "name" : "testelon",
+  "time" : {
+    "start" : 1664949255675,
+    "stop" : 1664949258928,
+    "duration" : 3253
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]
